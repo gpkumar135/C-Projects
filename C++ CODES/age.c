@@ -1,8 +1,7 @@
-// Online C compiler to run C program online
+
 #include <stdio.h>
 
 
-    // Write C code her
     struct date{
         int dd;
         int mm;
